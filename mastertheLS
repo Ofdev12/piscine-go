@@ -1,1 +1,1 @@
-ls -lAFmU
+ls -lFmA | sed 's/ //g '
